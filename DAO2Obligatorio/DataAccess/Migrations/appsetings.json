@@ -1,0 +1,13 @@
+﻿{
+  "ConnectionStrings": {
+    "AntelArenaShow": "Server=.\\SQLEXPRESS;Database=AntelArenaShow;Trusted_Connection=True; MultipleActiveResultSets=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
