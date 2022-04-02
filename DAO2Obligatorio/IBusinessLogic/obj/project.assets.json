@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nico\\.nuget\\packages\\": {}
+    "C:\\Users\\PHeNoM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
+      "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
       "projectName": "IBusinessLogic",
-      "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\obj\\",
+      "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+      "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj"
+            "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj"
             }
           }
         }

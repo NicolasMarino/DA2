@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {}
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

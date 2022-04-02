@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj": {}
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
               },
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
               }
             }
           }
@@ -65,17 +65,17 @@
         }
       }
     },
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj",
         "projectName": "DAO2Obligatorio.WebApi",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DAO2Obligatorio\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DAO2Obligatorio\\DAO2Obligatorio.WebApi.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DAO2Obligatorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,14 +89,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
               }
             }
           }
@@ -146,17 +146,17 @@
         }
       }
     },
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
         "projectName": "DataAccessInterface",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,8 +170,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj"
               }
             }
           }
@@ -204,17 +204,17 @@
         }
       }
     },
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,11 +228,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
               },
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj"
               }
             }
           }
@@ -291,17 +291,17 @@
         }
       }
     },
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -345,17 +345,17 @@
         }
       }
     },
-    "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
+    "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
+        "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
         "projectName": "IBusinessLogic",
-        "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\obj\\",
+        "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+        "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\IBusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -369,8 +369,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\Domain\\Domain.csproj"
+              "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj"
               }
             }
           }

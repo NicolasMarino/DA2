@@ -10,3 +10,15 @@ C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\Domain\obj\D
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\Domain\obj\Debug\net5.0\refint\Domain.dll
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.pdb
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\bin\Debug\net5.0\Domain.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\bin\Debug\net5.0\Domain.pdb
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\Domain.pdb
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\Domain\obj\Debug\net5.0\ref\Domain.dll
