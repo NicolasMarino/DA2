@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TpYkAVUcLq3XgS3ng1J4B3Kw4LP+tLmEsj8/2MnDREhd7/NDgniTMPSGm/TtW47app119VGnUTrelt0MMFn1iA==",
+  "dgSpecHash": "3LiEY203ZYi3ow6KIxnSADFw53WcewsKw5/rAwJwAjhSy5KMvwi1PsfwVjx1A/UFL/Ek+9VtNSKNi9PaWBsoZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
+  "projectFilePath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

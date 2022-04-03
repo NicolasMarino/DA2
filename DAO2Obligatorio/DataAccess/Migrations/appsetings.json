@@ -1,6 +1,6 @@
 ﻿{
   "ConnectionStrings": {
-    "AntelArenaShow": "Server=.\\SQLEXPRESS;Database=AntelArenaShow;Trusted_Connection=True; MultipleActiveResultSets=True;"
+    "AntelArenaShow": "Server=host.docker.internal;Database=AntelArenaShow; MultipleActiveResultSets=True;User Id=admuser;password=passtoor"
   },
   "Logging": {
     "LogLevel": {

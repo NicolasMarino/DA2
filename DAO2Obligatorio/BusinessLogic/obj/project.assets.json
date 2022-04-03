@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,11 +90,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
-              "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
+            "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj": {
+              "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\DataAccessInterface\\DataAccessInterface.csproj"
             },
-            "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
+            "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\IBusinessLogic\\IBusinessLogic.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5YbX4T14BCyVeY4sUdHa12B5XVgmZB7XnS7SBGNE4y7KOha4F9zmC9UdD32nEZisf4b6JWEjYL4SSlepKuw8VA==",
+  "dgSpecHash": "SbH7ARILgcwe/7JJVAPW6YYeuk8U6XSr805QmhAwE2/Focr2M/xPeDIamSjDbZ5zHO2IspuQa6wtZojU7gb+TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nico\\Documents\\GitHub\\196239_175034_231142\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nico\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nico\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
