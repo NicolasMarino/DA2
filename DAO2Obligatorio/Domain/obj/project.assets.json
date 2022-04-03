@@ -8,19 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nico\\.nuget\\packages\\": {}
+    "C:\\Users\\PHeNoM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
       "projectName": "Domain",
       "projectPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nico\\Documents\\GitHub\\DA2\\DAO2Obligatorio\\Domain\\obj\\",
+=======
+      "projectUniqueName": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\PHeNoM\\.nuget\\packages\\",
+      "outputPath": "D:\\___________ORT\\___DDA-2\\GIT\\DA2\\DAO2Obligatorio\\Domain\\obj\\",
+>>>>>>> bc35651dd141996c82140b4da6980e75d51dd7bc
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PHeNoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -13,6 +13,7 @@ C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\DataAccessIn
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\refint\DataAccessInterface.dll
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.pdb
 C:\Users\Nico\Documents\GitHub\196239_175034_231142\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\ref\DataAccessInterface.dll
+<<<<<<< HEAD
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.deps.json
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.dll
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.pdb
@@ -28,3 +29,20 @@ C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\refint\DataAccessInterface.dll
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.pdb
 C:\Users\Nico\Documents\GitHub\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\ref\DataAccessInterface.dll
+=======
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.deps.json
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\DataAccessInterface.pdb
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\Domain.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\bin\Debug\net5.0\Domain.pdb
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.csproj.AssemblyReference.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.AssemblyInfoInputs.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.AssemblyInfo.cs
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.csproj.CoreCompileInputs.cache
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.csproj.CopyComplete
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\refint\DataAccessInterface.dll
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\DataAccessInterface.pdb
+D:\___________ORT\___DDA-2\GIT\DA2\DAO2Obligatorio\DataAccessInterface\obj\Debug\net5.0\ref\DataAccessInterface.dll
+>>>>>>> bc35651dd141996c82140b4da6980e75d51dd7bc
